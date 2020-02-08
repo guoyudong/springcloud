@@ -1,0 +1,18 @@
+server:
+  port: 8200
+spring:
+  application:
+    name: oceanmind-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: false
+      routes:
+        - id: flow_consumer
+          uri: lb://flow-consumer
+          predicates:
+            - Path=/flow/**
+    nacos:
+      discovery:
+        server-addr: localhost:8848
