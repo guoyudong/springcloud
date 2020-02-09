@@ -1,0 +1,9 @@
+server:
+  port: 8214
+spring:
+  application:
+    name: oceanmind-alarm
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
