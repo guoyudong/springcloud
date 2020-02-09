@@ -1,0 +1,9 @@
+server:
+  port: 8208
+spring:
+  application:
+    name: oceanmind-dataasset
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
