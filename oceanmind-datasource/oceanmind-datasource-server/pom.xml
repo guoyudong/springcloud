@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.sinovatio.oceanmind</groupId>
-        <artifactId>oceanmind-authority-parent</artifactId>
+        <artifactId>oceanmind-datasource-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.sinovatio.oceanmind</groupId>
-    <artifactId>oceanmind-authority-server</artifactId>
+    <artifactId>oceanmind-datasource-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <dependencies>

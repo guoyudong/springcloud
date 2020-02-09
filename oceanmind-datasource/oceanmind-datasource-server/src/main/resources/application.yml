@@ -1,8 +1,8 @@
 server:
-  port: 8201
+  port: 8202
 spring:
   application:
-    name: oceanmind-authority
+    name: oceanmind-datasource
   cloud:
     nacos:
       discovery:
