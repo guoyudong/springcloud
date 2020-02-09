@@ -1,0 +1,9 @@
+server:
+  port: 8205
+spring:
+  application:
+    name: oceanmind-dataview
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
