@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.sinovatio.oceanmind</groupId>
-        <artifactId>oceanmind-shedule-parent</artifactId>
+        <artifactId>oceanmind-dataview-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.sinovatio.oceanmind</groupId>
-    <artifactId>oceanmind-shedule-server</artifactId>
+    <artifactId>oceanmind-dataview-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <dependencies>
