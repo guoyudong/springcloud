@@ -1,0 +1,9 @@
+server:
+  port: 8203
+spring:
+  application:
+    name: oceanmind-datafactory
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
