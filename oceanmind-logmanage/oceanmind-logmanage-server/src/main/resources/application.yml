@@ -1,0 +1,9 @@
+server:
+  port: 8213
+spring:
+  application:
+    name: oceanmind-logmanage
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
