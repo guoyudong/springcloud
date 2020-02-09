@@ -1,0 +1,9 @@
+server:
+  port: 8210
+spring:
+  application:
+    name: oceanmind-omm
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
