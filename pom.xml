@@ -26,6 +26,19 @@
         <module>oceanmind-common</module>
         <module>oceanmind-gateway</module>
         <module>oceanmind-authority</module>
+        <module>oceanmind-datastandard</module>
+        <module>oceanmind-datasource</module>
+        <module>oceanmind-dataexplore</module>
+        <module>oceanmind-dataasset</module>
+        <module>oceanmind-datagovernance</module>
+        <module>oceanmind-resourcedir</module>
+        <module>oceanmind-datafactory</module>
+        <module>oceanmind-shedule</module>
+        <module>oceanmind-dataview</module>
+        <module>oceanmind-omm</module>
+        <module>oceanmind-display</module>
+        <module>oceanmind-logmanage</module>
+        <module>oceanmind-alarm</module>
     </modules>
 
     <dependencyManagement>
