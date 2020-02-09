@@ -1,4 +1,4 @@
-package com.sinovatio.oceanmind.authority;
+package com.sinovatio.oceanmind.authority.provider;
 
 import org.springframework.cloud.openfeign.FeignClient;
 
