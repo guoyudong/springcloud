@@ -1,4 +1,4 @@
-package com.sinovatio.oceanmind.datasource.provider;
+package com.sinovatio.oceanmind.datafactory.provider;
 
 import org.springframework.cloud.openfeign.FeignClient;
 
