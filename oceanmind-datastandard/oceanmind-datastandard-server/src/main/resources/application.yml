@@ -1,0 +1,9 @@
+server:
+  port: 8207
+spring:
+  application:
+    name: oceanmind-datastandard
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
