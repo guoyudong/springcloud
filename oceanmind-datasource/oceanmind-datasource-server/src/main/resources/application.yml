@@ -1,0 +1,9 @@
+server:
+  port: 8201
+spring:
+  application:
+    name: oceanmind-authority
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
