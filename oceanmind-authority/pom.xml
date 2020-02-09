@@ -8,12 +8,13 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.sinovatio.oceanmind</groupId>
-    <artifactId>oceanmind-gateway-parent</artifactId>
+    <artifactId>oceanmind-authority-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>oceanmind-gateway-server</module>
+        <module>oceanmind-authority-client</module>
+        <module>oceanmind-authority-server</module>
     </modules>
 
 

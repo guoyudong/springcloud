@@ -4,17 +4,19 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.sinovatio.oceanmind</groupId>
-        <artifactId>oceanmind-parent</artifactId>
+        <artifactId>oceanmind-authority-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.sinovatio.oceanmind</groupId>
-    <artifactId>oceanmind-gateway-parent</artifactId>
+    <artifactId>oceanmind-authority-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
 
-    <modules>
-        <module>oceanmind-gateway-server</module>
-    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+    </dependencies>
 
 
 </project>
