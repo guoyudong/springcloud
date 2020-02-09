@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.sinovatio.oceanmind</groupId>
-        <artifactId>oceanmind-resourcedir-parent</artifactId>
+        <artifactId>oceanmind-logmanage-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.sinovatio.oceanmind</groupId>
-    <artifactId>oceanmind-resourcedir-server</artifactId>
+    <artifactId>oceanmind-logmanage-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <dependencies>
