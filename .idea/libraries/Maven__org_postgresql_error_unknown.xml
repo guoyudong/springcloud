@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.postgresql:error:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/maven/repo/org/postgresql/error/unknown/error-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/maven/repo/org/postgresql/error/unknown/error-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/maven/repo/org/postgresql/error/unknown/error-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
